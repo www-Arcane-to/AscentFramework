@@ -9,4 +9,8 @@ consider making a purchase!
 
 ####Installation#####
 
-To Install this plugin extract the content of the zip folder into ../Epic\UE_4.24\Engine\Plugins\Marketplace
+1. To Install the plugin. extract the contents of AscentCombatFramework.zip to ../Epic\UE_4.24\Engine\Plugins\
+2. Open the ACFExample folder, Right click the project file and generate visual studio project files
+3. Open the project via visual studio or double click ACFExample
+4. click edit then plugins and enable to plug-in.
+3. Restart Unreal Engine.
