@@ -1,4 +1,4 @@
-#Arcane.to Group Buy Ascent Framework <br>
+www.Arcane.to Group Buy Ascent Framework <br>
 Thanks to everyone that participated in this group buy.<br>
 If there is an update you will receive an email on the forum.
 Remember the purpose of the group buy is to evaluate the product before you buy.<br>
